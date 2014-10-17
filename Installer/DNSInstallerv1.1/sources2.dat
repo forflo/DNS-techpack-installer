@@ -1,0 +1,11 @@
+./com/dnstechpack/installer/enums/EnumErrorCodes.class
+./com/dnstechpack/installer/gui/FileChooser.class
+./com/dnstechpack/installer/gui/InstallerFrame.class
+./com/dnstechpack/installer/gui/InstallerPanel.class
+./com/dnstechpack/installer/install/ForgeInstall.class
+./com/dnstechpack/installer/install/InstallPack.class
+./com/dnstechpack/installer/Installer.class
+./com/dnstechpack/installer/settings/Settings.class
+./com/dnstechpack/installer/util/DownloadUtils.class
+./com/dnstechpack/installer/util/InstallerUtils.class
+./com/dnstechpack/installer/util/JsonUtils.class

@@ -1,0 +1,11 @@
+./com/dnstechpack/installer/enums/EnumErrorCodes.java
+./com/dnstechpack/installer/gui/FileChooser.java
+./com/dnstechpack/installer/gui/InstallerFrame.java
+./com/dnstechpack/installer/gui/InstallerPanel.java
+./com/dnstechpack/installer/install/ForgeInstall.java
+./com/dnstechpack/installer/install/InstallPack.java
+./com/dnstechpack/installer/Installer.java
+./com/dnstechpack/installer/settings/Settings.java
+./com/dnstechpack/installer/util/DownloadUtils.java
+./com/dnstechpack/installer/util/InstallerUtils.java
+./com/dnstechpack/installer/util/JsonUtils.java

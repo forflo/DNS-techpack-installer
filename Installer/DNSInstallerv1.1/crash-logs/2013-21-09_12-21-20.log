@@ -1,0 +1,9 @@
+DNS Installer Crash Report
+Please Send To A Rep At http://esper.net/ in channel #dns
+java.util.zip.ZipException: error in opening zip file
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:128)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:145)
+	at com.dnstechpack.installer.util.InstallerUtils.unZip(InstallerUtils.java:94)
+	at com.dnstechpack.installer.util.InstallerUtils.unZip(InstallerUtils.java:150)
+	at com.dnstechpack.installer.install.InstallPack$InstallThread.run(InstallPack.java:58)

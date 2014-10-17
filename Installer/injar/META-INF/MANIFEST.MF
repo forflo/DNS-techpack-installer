@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: ./lib/argo-3.7.jar ./lib/commons-io-2.4.jar ./lib/guava-14
+ .0.1.jar
+Main-Class: com.dnstechpack.installer.Installer
+
