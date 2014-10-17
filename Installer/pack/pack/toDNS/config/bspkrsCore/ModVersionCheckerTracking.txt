@@ -1,0 +1,9 @@
+# Configuration file
+
+version_check_tracker {
+    S:ArmorStatusHUD=v1.15(1.6.4)
+    S:Treecapitator=Forge 1.6.4.r06
+    S:bspkrsCore=v4.3(1.6.4)
+}
+
+
